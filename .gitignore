@@ -11,6 +11,8 @@
 # production
 /build
 
+#temporary
+/src/pages/auth
 # misc
 .DS_Store
 .env.local
